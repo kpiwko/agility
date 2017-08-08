@@ -40,10 +40,23 @@ TCO means Total Costs of Ownership, ROI means Return on Investement. Verificatio
 
 ---
 
-Let's talk about how you make product easy to test knowing what is testing and what is usual feature lifecycle
+In **all** phases above, it is vital to provide feedback. Agile encourages **early and frequent** feedback to
+* avoid requirement misunderstanding
+* clarify customer feature requests
+* discover and isolate problems
+* measure productivity
+* promote consistent project momentum
+
+<span style="float: right; font-style: italic">- ISTQB Agile, chapter 1.1</span>
 
 Note:
-Spoiler alert: Quality focused work can make product easier to test in every phase of the lifecycle. It works the best though if implemented from the very begginning as sooner feedback/action is available, the cheaper is to put any resulting changes into action. On the next slide, there will be chart showing cost ration and various stages of product development.
+Early and frequent feedback ensures that costs of change is reasonable. You want to build product that customer really want, not a product that you assume customer wants. Additionally, feeback also helps the team to constantly improve and become more effective by removing hurdles.
+
+---?image=assets/img/requirements.jpg&size=auto 90%
+
+<span style="float: right; font-style: italic; font-size: 12pt;">
+https://www.flickr.com/photos/programwitch/2327635740
+</span>
 
 ---
 
